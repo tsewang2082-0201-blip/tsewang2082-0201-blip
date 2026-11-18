@@ -6,6 +6,7 @@ experience in network security and ethical hacking.
 ## What I'm working on
 - Home-lab penetration testing with Nmap, Burp Suite, Metasploit and more tools
 - Hosting and hardening a web server on AWS EC2
+- working on real world problem through projects
 - Preparing for my first cybersecurity internship
 
 ## Projects
