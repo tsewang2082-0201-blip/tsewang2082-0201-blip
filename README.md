@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Tsewang 👋
 
-<!--
-**tsewang2082-0201-blip/tsewang2082-0201-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Cybersecurity student at IIMS College, Kathmandu, building hands-on
+experience in network security and ethical hacking.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Home-lab penetration testing with Nmap, Burp Suite, Metasploit and more tools
+- Hosting and hardening a web server on AWS EC2
+- Preparing for my first cybersecurity internship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [nmap-homelab-practice](https://github.com/tsewang2082-0201-blip/nmap-homelab-practice): three-stage scan and exploitation of a vulnerable VM
+
+## Tools
+Kali Linux , Metasploit, ,Nmap , Burp Suite , Wireshark , Python , AWS EC2 , TryHackMe , Hydra, John the ripper, etc
+
+*All work is done in my own labs or on authorized platforms.*
